@@ -208,7 +208,7 @@ at a rate of 1.5% per month or the maximum rate permitted by law,
 whichever is less.
 
 
-### Use of the Webste
+### Use of the Website
 
 The following requirements apply to Your use of the Website:
 
