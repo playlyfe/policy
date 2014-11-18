@@ -4,7 +4,7 @@
 <p class='intro'>Hello There! Welcome to Playlyfe. If you are using this
 website, you are agreeing to all points mentioned in this document.</p>
 
-This is a contract between You and Playlyfe It Solutions Pvt. Ltd.
+This is a contract between You and Playlyfe IT Solutions Pvt. Ltd.
 (“Playlyfe”, “We”, “Us”), and is applicable when you use our sites,
 services, mobile applications, products or contents provided by Playlyfe,
 and it's subsidary websites (“Sites”) globally, now or in the future.
