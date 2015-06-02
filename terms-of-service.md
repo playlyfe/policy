@@ -104,8 +104,7 @@ The look and feel of Playlyfe Sites are copyright Playlyfe IT Solutions
 Pvt. Ltd. All Rights Reserved. Some portions of the site may be
 licenced pursuant to third party open source licencing.
 We have also open sourced some of our own code, which is available
-publically
-[here](https://github.com/playlyfe/policy "Playlyfe Policy on Github").
+publicly [here](https://github.com/playlyfe/policy "Playlyfe on Github").
 
 Unless otherwise indicated, Playlyfe or its licencors own and
 retain all proprietary rights in the Website and all material
@@ -267,6 +266,40 @@ assign all rights, title and interest you have in such Feedback
 to Playlyfe together with all intellectual property rights therein.
 
 
+### Wallet
+
+Every Playlyfe account has a wallet, which is used to pay for games You
+create on Playlyfe. This wallet can be topped-up using a valid credit card
+or a valid international debit card. The topup is bought in US Dollars and
+credited in the form of Playlyfe credits to the wallet. These credits are
+non-refundable and non-transferable.
+
+
+### Promotions
+
+Playlyfe may from time to time open promotions, which offer Playlyfe credits
+to it's users on signing up or completing tasks. These credits are only
+valid within the Playlyfe ecosystem, and are non-refundable and
+non-transferable.
+
+
+### Name-squatting
+
+Playlyfe account or game name squatting is prohibited. Inactive accounts may
+be renamed or removed by Playlyfe staff at their discretion. You can examine
+an account's public games to see if there's recent activity and request that
+support release the name for you, but keep in mind that not all activity on
+Playlyfe is publicly visible. Staff will not remove or rename any active
+account.
+
+Playlyfe account and game names are provided on a first-come, first-served
+basis, and are intended for immediate and active use. Account names may not
+be inactively held for future use.
+
+Attempts to sell, buy, or solicit other forms of payment in exchange for
+account names are prohibited and may result in permanent account suspension.
+
+
 ### Revocation of Access
 
 Playlyfe may, in its sole discretion, and at any time, discontinue
@@ -307,6 +340,14 @@ confidentiality or security of your personal information, Playlyfe
 may, in its sole discretion, notify you of such breach.
 Unless you indicate otherwise, we may notify you under such
 circumstances using the email address you provide to us.
+
+
+### Responsible Disclosure
+
+We strive to keep Playlyfe safe for everyone. If you've discovered any
+security vulnerability in Playlyfe, we appreciate your help in disclosing it
+to us in a responsible manner. To report any vulnerabilities, mail us at
+support@playlyfe.com with **[SECURITY]** in the subject line.
 
 
 ### Disclaimer of Warranties
